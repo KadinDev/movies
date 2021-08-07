@@ -1,0 +1,4 @@
+Instalei um biblioteca para trabalhar com requisições http
+npm install axios
+
+//https://sujeitoprogramador.com/r-api/?api=filmes
